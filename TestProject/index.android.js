@@ -17,7 +17,7 @@ class TestProject extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React Native!
+          Hello React!
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.android.js
